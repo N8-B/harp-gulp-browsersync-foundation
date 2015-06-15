@@ -1,0 +1,14 @@
+{
+  "name": "Harp-Gulp-BrowserSync-Foundation",
+  "version": "0.0.1",
+  "description": "The dependencies needed for the HGBF5 boilerplate",
+  "private": true,
+  "main": "gulpfile.js",
+  "author": "Nathan Burkiewicz",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "harp": "^0.17.0",
+    "browser-sync": "^2.7.10"
+  }
+}
